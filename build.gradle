@@ -9,10 +9,10 @@ version = '1.0.0'
 repositories { mavenCentral() }
 
 ext {
-    springVersion = '7.0.8'
-    hibernateVersion = '7.4.5.Final'
-    junitVersion = '5.13.4'
-    mockitoVersion = '5.18.0'
+    springVersion = '6.2.8'
+    hibernateVersion = '6.4.4.Final'
+    junitVersion = '5.10.2'
+    mockitoVersion = '5.3.1'
     h2Version = '2.3.232'
 }
 
